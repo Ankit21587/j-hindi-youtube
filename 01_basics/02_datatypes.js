@@ -1,8 +1,8 @@
 "use strict"; // treat all js code as newer version
 
-alert(3 + 3) //we are using nodejs not browsing
+//alert(3 + 3) //we are using nodejs not browsing
 
-
+let age=21;
 
 // number => 2 to power 53
 // bigint
